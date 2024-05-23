@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ftp_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d7c16e1a5783d427f630de804d51086b013d6d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9417c47fad81cbc280a91709ba93b6467712c9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ftp_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ftp_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

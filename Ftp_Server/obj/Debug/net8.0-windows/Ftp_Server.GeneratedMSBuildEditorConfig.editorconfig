@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ftp_Server
-build_property.ProjectDir = D:\New\01_study\01_study_in_school\semester04\NT106\final-project\Network\Ftp_Server\
+build_property.ProjectDir = D:\New\01_study\01_study_in_school\semester04\NT106\final-project-final\Network\Ftp_Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

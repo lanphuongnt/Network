@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogmG/SpqZJ5Qz1VUtvmXyi69ShM4LKgzPLa8Zyz4NEw7WASr3pxvMqzrjP6AhP+xR+IaruYcseGCK3X8J6WKaA==",
+  "dgSpecHash": "45LwafD8Rirc3azxARrV85WrisYUGWC4DtQGf2NFte6Qtxps2BnDvfaXiN1LzKVSaQ91mDBKnQU2j6MElYGmwg==",
   "success": true,
-  "projectFilePath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\Ftp_Client.csproj",
+  "projectFilePath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\Ftp_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

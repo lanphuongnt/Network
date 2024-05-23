@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\Ftp_Client.csproj": {}
+    "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\Ftp_Client.csproj": {}
   },
   "projects": {
-    "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\Ftp_Client.csproj": {
+    "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\Ftp_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\Ftp_Client.csproj",
+        "projectUniqueName": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\Ftp_Client.csproj",
         "projectName": "Ftp_Client",
-        "projectPath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\Ftp_Client.csproj",
+        "projectPath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\Ftp_Client.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project\\Network\\Ftp_Client\\obj\\",
+        "outputPath": "D:\\New\\01_study\\01_study_in_school\\semester04\\NT106\\final-project-final\\Network\\Ftp_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
